@@ -1,6 +1,7 @@
-import { LucideProps } from 'lucide-react';
+import { LucideProps, User } from 'lucide-react';
 
 export const Icons = {
+  user: User,
   logo: () => (
     <div className="w-6 h-6 mx-auto text-center rounded-sm bg-[#5AF] text-white font-semibold">
       <p>P</p>
